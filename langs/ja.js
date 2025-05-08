@@ -1,4 +1,4 @@
-tinymce.addI18n('ja',{
+hugerte.addI18n('ja',{
 "Redo": "\u3084\u308a\u76f4\u3059",
 "Undo": "\u5143\u306b\u623b\u3059",
 "Cut": "\u5207\u308a\u53d6\u308a",

@@ -1,4 +1,4 @@
-tinymce.addI18n('kk',{
+hugerte.addI18n('kk',{
 "Cut": "\u049a\u0438\u044b\u043f \u0430\u043b\u0443",
 "Heading 5": "\u0422\u0430\u049b\u044b\u0440\u044b\u043f 5",
 "Header 2": "\u0422\u0430\u049b\u044b\u0440\u044b\u043f\u0448\u0430 2",

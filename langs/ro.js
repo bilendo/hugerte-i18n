@@ -1,4 +1,4 @@
-tinymce.addI18n('ro',{
+hugerte.addI18n('ro',{
 "Cut": "Taie",
 "Heading 5": "Titlu 5",
 "Header 2": "Antet 2",

@@ -1,4 +1,4 @@
-tinymce.addI18n("cy", {
+hugerte.addI18n("cy", {
     "Redo": "Ailwneud",
     "Undo": "Dadwneud",
     "Cut": "Torri",

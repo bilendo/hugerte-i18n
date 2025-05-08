@@ -1,4 +1,4 @@
-tinymce.addI18n("uz", {
+hugerte.addI18n("uz", {
     "#": "#",
     "Accessibility": "Maxsus qobiliyatlar",
     "Accordion": "",

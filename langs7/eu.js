@@ -1,4 +1,4 @@
-tinymce.addI18n("eu", {
+hugerte.addI18n("eu", {
     "#": "#",
     "Accessibility": "Irisgarritasuna",
     "Accordion": "Akordeoia",

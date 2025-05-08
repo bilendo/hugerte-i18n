@@ -1,4 +1,4 @@
-tinymce.addI18n('ko_KR',{
+hugerte.addI18n('ko_KR',{
 "Redo": "\ub2e4\uc2dc\uc2e4\ud589",
 "Undo": "\uc2e4\ud589\ucde8\uc18c",
 "Cut": "\uc798\ub77c\ub0b4\uae30",

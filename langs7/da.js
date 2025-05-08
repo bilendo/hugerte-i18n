@@ -1,4 +1,4 @@
-tinymce.addI18n("da", {
+hugerte.addI18n("da", {
     "#": "#",
     "Accessibility": "Tilg\xe6ngelighed",
     "Accordion": "",

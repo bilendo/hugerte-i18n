@@ -1,4 +1,4 @@
-tinymce.addI18n("ku", {
+hugerte.addI18n("ku", {
     "#": "#",
     "Accessibility": "\u062f\u06d5\u0633\u062a\u06af\u06d5\u06cc\u0634\u062a\u0646",
     "Accordion": "",

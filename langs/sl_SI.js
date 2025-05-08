@@ -1,4 +1,4 @@
-tinymce.addI18n('sl_SI',{
+hugerte.addI18n('sl_SI',{
 "Cut": "Izre\u017ei",
 "Heading 5": "Podnaslov 5",
 "Header 2": "Naslov 2",

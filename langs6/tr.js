@@ -1,4 +1,4 @@
-tinymce.addI18n("tr", {
+hugerte.addI18n("tr", {
     "Redo": "Yinele",
     "Undo": "Geri al",
     "Cut": "Kes",

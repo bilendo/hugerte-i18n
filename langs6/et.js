@@ -1,4 +1,4 @@
-tinymce.addI18n("et", {
+hugerte.addI18n("et", {
     "Redo": "Tee uuesti",
     "Undo": "V\xf5ta tagasi",
     "Cut": "L\xf5ika",

@@ -1,4 +1,4 @@
-tinymce.addI18n('eo',{
+hugerte.addI18n('eo',{
 "Redo": "Refari",
 "Undo": "Malfari",
 "Cut": "Eltran\u0109i",

@@ -1,4 +1,4 @@
-tinymce.addI18n('sk',{
+hugerte.addI18n('sk',{
 "Redo": "Znova",
 "Undo": "Vr\u00e1ti\u0165",
 "Cut": "Vystrihn\u00fa\u0165",

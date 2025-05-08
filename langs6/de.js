@@ -1,4 +1,4 @@
-tinymce.addI18n("de", {
+hugerte.addI18n("de", {
     "Redo": "Wiederholen",
     "Undo": "R\xfcckg\xe4ngig machen",
     "Cut": "Ausschneiden",

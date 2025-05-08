@@ -1,4 +1,4 @@
-tinymce.addI18n('kk',{
+hugerte.addI18n('kk',{
 "Redo": "\u049a\u0430\u0439\u0442\u0430\u0440\u0443",
 "Undo": "\u0411\u043e\u043b\u0434\u044b\u0440\u043c\u0430\u0443",
 "Cut": "\u049a\u0438\u044b\u043f \u0430\u043b\u0443",

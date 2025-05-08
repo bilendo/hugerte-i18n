@@ -1,4 +1,4 @@
-tinymce.addI18n("ko_KR", {
+hugerte.addI18n("ko_KR", {
     "Redo": "Ran again",
     "Undo": "Undo",
     "Cut": "Cut",

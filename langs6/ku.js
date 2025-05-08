@@ -1,4 +1,4 @@
-tinymce.addI18n("ku", {
+hugerte.addI18n("ku", {
     "Redo": "\u06a9\u0631\u062f\u0646\u06d5\u0648\u06d5",
     "Undo": "\u06af\u06d5\u0695\u0627\u0646\u06d5\u0648\u06d5",
     "Cut": "\u0628\u0695\u06cc\u0646",

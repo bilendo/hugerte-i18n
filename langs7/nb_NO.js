@@ -1,4 +1,4 @@
-tinymce.addI18n("nb_NO", {
+hugerte.addI18n("nb_NO", {
     "#": "#",
     "Accessibility": "Tilgjengelighet",
     "Accordion": "Trekkspillmeny",

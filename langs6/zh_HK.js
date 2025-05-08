@@ -1,4 +1,4 @@
-tinymce.addI18n("zh_HK", {
+hugerte.addI18n("zh_HK", {
     "Redo": "\u91cd\u505a",
     "Undo": "\u5fa9\u539f",
     "Cut": "\u526a\u4e0b",

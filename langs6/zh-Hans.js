@@ -1,4 +1,4 @@
-tinymce.addI18n("zh-Hans", {
+hugerte.addI18n("zh-Hans", {
     "Redo": "\u91cd\u505a",
     "Undo": "\u64a4\u9500",
     "Cut": "\u526a\u5207",

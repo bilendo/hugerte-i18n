@@ -1,4 +1,4 @@
-tinymce.addI18n("hr", {
+hugerte.addI18n("hr", {
     "Redo": "Ponovi",
     "Undo": "Poni\u0161ti",
     "Cut": "Izre\u017ei",

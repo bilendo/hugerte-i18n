@@ -1,4 +1,4 @@
-tinymce.addI18n('bg_BG',{
+hugerte.addI18n('bg_BG',{
 "Redo": "\u041e\u0442\u043c\u0435\u043d\u044f\u043d\u0435",
 "Undo": "\u0412\u0440\u044a\u0449\u0430\u043d\u0435",
 "Cut": "\u0418\u0437\u0440\u044f\u0437\u0432\u0430\u043d\u0435",

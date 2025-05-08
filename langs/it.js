@@ -1,4 +1,4 @@
-tinymce.addI18n('it',{
+hugerte.addI18n('it',{
 "Redo": "Ripeti",
 "Undo": "Indietro",
 "Cut": "Taglia",

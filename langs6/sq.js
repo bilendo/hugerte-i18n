@@ -1,4 +1,4 @@
-tinymce.addI18n("sq", {
+hugerte.addI18n("sq", {
     "Redo": "Rib\xebje",
     "Undo": "Zhb\xebje",
     "Cut": "Prije",

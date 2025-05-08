@@ -1,4 +1,4 @@
-tinymce.addI18n("cs", {
+hugerte.addI18n("cs", {
     "#": "#",
     "Accessibility": "Bez alternativn\xedho textu",
     "Accordion": "Skl\xe1da\u010dka",

@@ -1,4 +1,4 @@
-tinymce.addI18n('kab',{
+hugerte.addI18n('kab',{
 "Redo": "Err-d",
 "Undo": "Semmet",
 "Cut": "Gzem",

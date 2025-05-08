@@ -1,4 +1,4 @@
-tinymce.addI18n('pl',{
+hugerte.addI18n('pl',{
 "Redo": "Pon\u00f3w",
 "Undo": "Cofnij",
 "Cut": "Wytnij",

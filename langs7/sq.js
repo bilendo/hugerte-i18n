@@ -1,4 +1,4 @@
-tinymce.addI18n("sq", {
+hugerte.addI18n("sq", {
     "#": "#",
     "Accessibility": "P\xebrdorim nga persona me aft\xebsi t\xeb kufizuara",
     "Accordion": "Fizarmonik\xeb",

@@ -1,4 +1,4 @@
-tinymce.addI18n("oc", {
+hugerte.addI18n("oc", {
     "Redo": "Refar",
     "Undo": "Desfar",
     "Cut": "Talhar",

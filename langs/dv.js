@@ -1,4 +1,4 @@
-tinymce.addI18n('dv',{
+hugerte.addI18n('dv',{
 "Cut": "\u0786\u07a6\u0793\u07b0",
 "Heading 5": "\u0780\u07ac\u0791\u07a8\u0782\u07b0 5",
 "Header 2": "\u0780\u07ac\u0791\u07a7 2",

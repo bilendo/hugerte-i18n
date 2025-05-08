@@ -1,4 +1,4 @@
-tinymce.addI18n("az", {
+hugerte.addI18n("az", {
     "#": "#",
     "Accessibility": "\u018fl\xe7atanl\u0131q",
     "Accordion": "Akkordion",

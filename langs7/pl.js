@@ -1,4 +1,4 @@
-tinymce.addI18n("pl", {
+hugerte.addI18n("pl", {
     "#": "#",
     "Accessibility": "Dost\u0119pno\u015b\u0107",
     "Accordion": "Element Accordion",

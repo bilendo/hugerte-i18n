@@ -1,4 +1,4 @@
-tinymce.addI18n("ko_KR", {
+hugerte.addI18n("ko_KR", {
     "#": "#",
     "Accessibility": "\uc811\uadfc\uc131",
     "Accordion": "\uc544\ucf54\ub514\uc5b8",

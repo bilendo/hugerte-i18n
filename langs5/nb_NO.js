@@ -1,4 +1,4 @@
-tinymce.addI18n('nb_NO',{
+hugerte.addI18n('nb_NO',{
 "Redo": "Gj\u00f8r om",
 "Undo": "Angre",
 "Cut": "Klipp ut",

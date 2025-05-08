@@ -1,4 +1,4 @@
-tinymce.addI18n("ru", {
+hugerte.addI18n("ru", {
     "#": "#",
     "Accessibility": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438",
     "Accordion": "\u0410\u043a\u043a\u043e\u0440\u0434\u0435\u043e\u043d",

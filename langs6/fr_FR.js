@@ -1,4 +1,4 @@
-tinymce.addI18n("fr_FR", {
+hugerte.addI18n("fr_FR", {
     "Redo": "R\xe9tablir",
     "Undo": "Annuler",
     "Cut": "Couper",

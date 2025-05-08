@@ -1,4 +1,4 @@
-tinymce.addI18n('az',{
+hugerte.addI18n('az',{
 "Redo": "\u0130r\u0259li",
 "Undo": "Geriy\u0259",
 "Cut": "K\u0259s",

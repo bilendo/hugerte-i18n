@@ -1,4 +1,4 @@
-tinymce.addI18n("nl", {
+hugerte.addI18n("nl", {
     "Redo": "Opnieuw uitvoeren",
     "Undo": "Ongedaan maken",
     "Cut": "Knippen",

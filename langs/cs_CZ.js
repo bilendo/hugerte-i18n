@@ -1,4 +1,4 @@
-tinymce.addI18n('cs_CZ',{
+hugerte.addI18n('cs_CZ',{
 "Redo": "Znovu",
 "Undo": "Zp\u011bt",
 "Cut": "Vyjmout",

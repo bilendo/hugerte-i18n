@@ -1,4 +1,4 @@
-tinymce.addI18n('km_KH',{
+hugerte.addI18n('km_KH',{
 "Redo": "\u1792\u17d2\u179c\u17be\u200b\u179c\u17b7\u1789",
 "Undo": "\u1798\u17b7\u1793\u200b\u1792\u17d2\u179c\u17be\u200b\u179c\u17b7\u1789",
 "Cut": "\u1780\u17b6\u178f\u17cb",

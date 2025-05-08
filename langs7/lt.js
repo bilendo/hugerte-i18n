@@ -1,4 +1,4 @@
-tinymce.addI18n("lt", {
+hugerte.addI18n("lt", {
     "#": "#",
     "Accessibility": "Prieinamumas",
     "Accordion": "I\u0161skleid\u017eiamas elementas",

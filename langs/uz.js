@@ -1,4 +1,4 @@
-tinymce.addI18n('uz',{
+hugerte.addI18n('uz',{
 "Redo": "Bekor qilish",
 "Undo": "Orqaga qaytarish",
 "Cut": "Kesib olish",

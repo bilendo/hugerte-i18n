@@ -1,4 +1,4 @@
-tinymce.addI18n("da", {
+hugerte.addI18n("da", {
     "Redo": "Gendan",
     "Undo": "Fortryd",
     "Cut": "Klip",

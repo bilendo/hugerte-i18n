@@ -1,4 +1,4 @@
-tinymce.addI18n("ru", {
+hugerte.addI18n("ru", {
     "Redo": "Redo",
     "Undo": "Undo",
     "Cut": "\u0412\u044b\u0440\u0435\u0437\u0430\u0442\u044c",

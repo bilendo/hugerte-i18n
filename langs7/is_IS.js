@@ -1,4 +1,4 @@
-tinymce.addI18n("is_IS", {
+hugerte.addI18n("is_IS", {
     "#": "",
     "Accessibility": "",
     "Accordion": "",

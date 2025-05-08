@@ -1,4 +1,4 @@
-tinymce.addI18n("sv_SE", {
+hugerte.addI18n("sv_SE", {
     "#": "#",
     "Accessibility": "Tillg\xe4nglighet",
     "Accordion": "Dragspelsmeny",

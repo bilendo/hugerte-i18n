@@ -1,4 +1,4 @@
-tinymce.addI18n('pt_BR',{
+hugerte.addI18n('pt_BR',{
 "Redo": "Refazer",
 "Undo": "Desfazer",
 "Cut": "Recortar",

@@ -1,4 +1,4 @@
-tinymce.addI18n("ka_GE", {
+hugerte.addI18n("ka_GE", {
     "Redo": "\u10d2\u10d0\u10db\u10d4\u10dd\u10e0\u10d4\u10d1\u10d0",
     "Undo": "\u10d3\u10d0\u10d1\u10e0\u10e3\u10dc\u10d4\u10d1\u10d0",
     "Cut": "\u10d0\u10db\u10dd\u10ed\u10e0\u10d0",

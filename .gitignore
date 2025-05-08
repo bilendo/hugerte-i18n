@@ -4,10 +4,6 @@
 # Windows
 Thumbs.db
 
-# composer
-composer.phar
-/vendor/
-
 # npm
 node_modules/
 .npm

@@ -1,4 +1,4 @@
-tinymce.addI18n('cy',{
+hugerte.addI18n('cy',{
 "Cut": "Torri",
 "Heading 5": "Pennawd 5",
 "Header 2": "Pennawd 2",

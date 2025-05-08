@@ -1,4 +1,4 @@
-tinymce.addI18n("zh_SG", {
+hugerte.addI18n("zh_SG", {
     "#": "#",
     "Accessibility": "\u5354\u52a9\u5de5\u5177",
     "Accordion": "",

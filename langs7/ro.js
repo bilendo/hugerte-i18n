@@ -1,4 +1,4 @@
-tinymce.addI18n("ro", {
+hugerte.addI18n("ro", {
     "#": "",
     "Accessibility": "Accesibilitate",
     "Accordion": "",

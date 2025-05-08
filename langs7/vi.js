@@ -1,4 +1,4 @@
-tinymce.addI18n("vi", {
+hugerte.addI18n("vi", {
     "#": "#",
     "Accessibility": "Kh\u1ea3 n\u0103ng ti\u1ebfp c\u1eadn",
     "Accordion": "M\xf4-\u0111un n\u1ed9i dung m\u1edf r\u1ed9ng/thu g\u1ecdn \u0111\u01b0\u1ee3c",

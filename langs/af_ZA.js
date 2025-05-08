@@ -1,4 +1,4 @@
-tinymce.addI18n('af_ZA',{
+hugerte.addI18n('af_ZA',{
 "Cut": "Sny",
 "Heading 5": "Opskrif 5",
 "Header 2": "Hooflyn 2",

@@ -1,4 +1,4 @@
-tinymce.addI18n('ka_GE',{
+hugerte.addI18n('ka_GE',{
 "Cut": "\u10d0\u10db\u10dd\u10ed\u10e0\u10d0",
 "Heading 5": "\u10e1\u10d0\u10d7\u10d0\u10e3\u10e0\u10d8 5",
 "Header 2": "\u10e1\u10d0\u10d7\u10d0\u10e3\u10e0\u10d8 2",

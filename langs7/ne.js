@@ -1,4 +1,4 @@
-tinymce.addI18n("ne", {
+hugerte.addI18n("ne", {
     "#": "",
     "Accessibility": "\u0909\u092a\u0932\u092c\u094d\u0927\u0924\u093e",
     "Accordion": "",

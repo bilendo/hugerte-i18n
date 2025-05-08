@@ -1,4 +1,4 @@
-tinymce.addI18n("pl", {
+hugerte.addI18n("pl", {
     "Redo": "Powt\xf3rz",
     "Undo": "Cofnij",
     "Cut": "Wytnij",

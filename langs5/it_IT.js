@@ -1,4 +1,4 @@
-tinymce.addI18n('it_IT',{
+hugerte.addI18n('it_IT',{
 "Redo": "Ripristina",
 "Undo": "Annulla",
 "Cut": "Taglia",

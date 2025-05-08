@@ -1,4 +1,4 @@
-tinymce.addI18n("tr", {
+hugerte.addI18n("tr", {
     "#": "#",
     "Accessibility": "Eri\u015filebilirlik",
     "Accordion": "Akordeon",

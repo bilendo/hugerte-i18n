@@ -1,4 +1,4 @@
-tinymce.addI18n('zh_TW',{
+hugerte.addI18n('zh_TW',{
 "Redo": "\u53d6\u6d88\u5fa9\u539f",
 "Undo": "\u5fa9\u539f",
 "Cut": "\u526a\u4e0b",

@@ -1,4 +1,4 @@
-tinymce.addI18n('ga',{
+hugerte.addI18n('ga',{
 "Redo": "Athdh\u00e9an",
 "Undo": "Cealaigh",
 "Cut": "Gearr",

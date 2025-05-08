@@ -1,4 +1,4 @@
-tinymce.addI18n('cs',{
+hugerte.addI18n('cs',{
 "Redo": "Znovu",
 "Undo": "Zp\u011bt",
 "Cut": "Vyjmout",

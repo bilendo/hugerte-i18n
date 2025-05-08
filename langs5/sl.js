@@ -1,4 +1,4 @@
-tinymce.addI18n('sl',{
+hugerte.addI18n('sl',{
 "Redo": "Ponovno uveljavi",
 "Undo": "Razveljavi",
 "Cut": "Izre\u017ei",

@@ -1,4 +1,4 @@
-tinymce.addI18n("vi", {
+hugerte.addI18n("vi", {
     "Redo": "L\xe0m l\u1ea1i",
     "Undo": "H\u1ee7y thao t\xe1c",
     "Cut": "C\u1eaft",

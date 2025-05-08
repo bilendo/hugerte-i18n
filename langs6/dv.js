@@ -1,4 +1,4 @@
-tinymce.addI18n("dv", {
+hugerte.addI18n("dv", {
     "Redo": "\u0783\u07a9\u0791\u07ab",
     "Undo": "\u0787\u07a6\u0782\u07b0\u0791\u07ab",
     "Cut": "\u0786\u07a6\u0793\u07b0",

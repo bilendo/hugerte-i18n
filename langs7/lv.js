@@ -1,4 +1,4 @@
-tinymce.addI18n("lv", {
+hugerte.addI18n("lv", {
     "#": "#",
     "Accessibility": "Piek\u013c\u016bstam\u012bba",
     "Accordion": "Akordeons",

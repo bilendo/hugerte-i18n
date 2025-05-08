@@ -1,4 +1,4 @@
-tinymce.addI18n('lt',{
+hugerte.addI18n('lt',{
 "Redo": "Gr\u0105\u017einti",
 "Undo": "Atstatyti",
 "Cut": "I\u0161kirpti",

@@ -1,4 +1,4 @@
-tinymce.addI18n('lv',{
+hugerte.addI18n('lv',{
 "Redo": "Solis uz priek\u0161u",
 "Undo": "Solis atpaka\u013c",
 "Cut": "Izgriezt",

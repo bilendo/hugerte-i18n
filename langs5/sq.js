@@ -1,4 +1,4 @@
-tinymce.addI18n('sq',{
+hugerte.addI18n('sq',{
 "Cut": "prerje",
 "Heading 5": "titull 5",
 "Header 2": "titull 2",

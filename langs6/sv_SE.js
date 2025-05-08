@@ -1,4 +1,4 @@
-tinymce.addI18n("sv_SE", {
+hugerte.addI18n("sv_SE", {
     "Redo": "G\xf6r om",
     "Undo": "\xc5ngra",
     "Cut": "Klipp ut",

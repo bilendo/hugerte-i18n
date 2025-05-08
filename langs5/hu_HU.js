@@ -1,4 +1,4 @@
-tinymce.addI18n('hu_HU',{
+hugerte.addI18n('hu_HU',{
 "Redo": "Ism\u00e9t",
 "Undo": "Visszavon\u00e1s",
 "Cut": "Kiv\u00e1g\u00e1s",

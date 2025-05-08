@@ -1,4 +1,4 @@
-tinymce.addI18n("gl", {
+hugerte.addI18n("gl", {
     "Redo": "Refacer",
     "Undo": "Desfacer",
     "Cut": "Cortar",

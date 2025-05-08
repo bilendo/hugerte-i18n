@@ -1,4 +1,4 @@
-tinymce.addI18n('el',{
+hugerte.addI18n('el',{
 "Redo": "\u0395\u03c0\u03b1\u03bd\u03ac\u03bb\u03b7\u03c8\u03b7",
 "Undo": "\u0391\u03bd\u03b1\u03af\u03c1\u03b5\u03c3\u03b7",
 "Cut": "\u0391\u03c0\u03bf\u03ba\u03bf\u03c0\u03ae",

@@ -1,4 +1,4 @@
-tinymce.addI18n("ca", {
+hugerte.addI18n("ca", {
     "Redo": "Refer",
     "Undo": "Desfer",
     "Cut": "Retalla",

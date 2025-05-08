@@ -1,4 +1,4 @@
-tinymce.addI18n("fi", {
+hugerte.addI18n("fi", {
     "#": "#",
     "Accessibility": "Saavutettavuus",
     "Accordion": "Haitarivalikko",
